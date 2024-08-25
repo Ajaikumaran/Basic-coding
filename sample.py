@@ -1,0 +1,2 @@
+print("Ajai")
+print("Ajaikumaran")
